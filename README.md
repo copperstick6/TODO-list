@@ -21,3 +21,7 @@ finish up android app, then get Alexa integration
 ### Discord-Bot
 Figure out what I'm doing, what framework I want to write it in  
 Get it done by February
+
+# BIG STUFF TO LEARN THIS BREAK
+Android dev  
+SQL, PostgresSQL or mySQL, SQLAlchemy
