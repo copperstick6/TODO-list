@@ -26,4 +26,4 @@ Get it done by February
 # BIG STUFF TO LEARN THIS BREAK
 Android dev  
 SQL (specifically mySQL)  
-thus, I have to know PHP, so PHP, as pip install mysql won't work on my PC for some odd reason
+thus, I have to know PHP, as pip install mysql won't work on my PC for some odd reason
