@@ -5,7 +5,8 @@ Stuff I need to get done
 ## Projects
 
 ### Safe
-Get a running version done by December 30, 2016  
+Get a running version done by ~~December 30, 2016~~ moved to January 16, 2017 due to other concerns  
+
 #### To-Do 
 Rewrite the entire existing android application  
 Host the server for backend support  
@@ -24,4 +25,5 @@ Get it done by February
 
 # BIG STUFF TO LEARN THIS BREAK
 Android dev  
-SQL, PostgresSQL or mySQL, SQLAlchemy
+SQL (specifically mySQL)  
+thus, I have to know PHP, so PHP, as pip install mysql won't work on my PC for some odd reason
