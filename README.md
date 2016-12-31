@@ -27,3 +27,4 @@ Get it done by February
 Android dev  
 SQL (specifically mySQL)  
 thus, I have to know PHP, as pip install mysql won't work on my PC for some odd reason
+CT0401684872
