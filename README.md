@@ -25,8 +25,8 @@ Get it done by February
 
 # BIG STUFF TO LEARN THIS BREAK
 Android dev  
-SQL (specifically mySQL)  
-thus, I have to know PHP, as pip install mysql won't work on my PC for some odd reason
+~~SQL (specifically mySQL)  
+thus, I have to know PHP, as pip install mysql won't work on my PC for some odd reason~~ DONE
 
 ## MARCH 2017  
 https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550
