@@ -27,5 +27,9 @@ Get it done by February
 Android dev  
 SQL (specifically mySQL)  
 thus, I have to know PHP, as pip install mysql won't work on my PC for some odd reason
-CT0401684872
-lilihan@yahoo.com
+
+## MARCH 2017  
+https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550
+
+CT0401684872  
+lilihan@yahoo.com  
